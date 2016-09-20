@@ -1,0 +1,13 @@
+.bar {
+  height: 250px;
+  width: 250px;
+  background: green;
+}
+
+.foo {
+  height: 250px;
+  width: 250px;
+  background: orange;
+}
+
+/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbImJhci5jc3MiLCJmb28uY3NzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBO0FBQ0E7QUFDQTtBQUNBO0FBQ0E7QUFDQTtBQ0xBO0FBQ0E7QUFDQTtBQUNBO0FBQ0E7QUFDQSIsImZpbGUiOiJzdHlsZXMuY3NzIiwic291cmNlc0NvbnRlbnQiOlsiLmJhciB7XHJcbiAgaGVpZ2h0OiAyNTBweDtcclxuICB3aWR0aDogMjUwcHg7XHJcbiAgYmFja2dyb3VuZDogZ3JlZW47XHJcbn1cclxuIiwiLmZvbyB7XHJcbiAgaGVpZ2h0OiAyNTBweDtcclxuICB3aWR0aDogMjUwcHg7XHJcbiAgYmFja2dyb3VuZDogb3JhbmdlO1xyXG59XHJcbiJdLCJzb3VyY2VSb290IjoiL3NvdXJjZS8ifQ== */
