@@ -1,2 +1,2 @@
 # Mappy
-## a css build tool demo using sourcemaps
+## a css build gulp demo using sourcemaps
